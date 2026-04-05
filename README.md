@@ -3,3 +3,12 @@
 
 # Login Formate
 <img width="578" height="778" alt="Screenshot 2026-04-05 145153" src="https://github.com/user-attachments/assets/587118e1-f91e-4f39-953d-cd3e629d2570" />
+
+This project is a simple and elegant Login Page UI built using only HTML and CSS.
+It focuses on clean design, soft colors, and a modern user interface without using any JavaScript.
+
+🎨 Design Highlights
+Minimal and clean layout ✨
+Soft color palette with smooth contrast 🎨
+Rounded input fields and buttons 🔘
+User-friendly structure
